@@ -1,3 +1,6 @@
+<!-- Imagen de fondo -->
+![Background Image](https://github.com/JaspCode/JaspCode/raw/main/images/fondo.gif)
+
 # 💫 About Me:
 Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
 
@@ -49,6 +52,4 @@ Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
