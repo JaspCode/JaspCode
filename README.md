@@ -38,9 +38,9 @@ Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaspCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="220" width="500" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaspCode&theme=dark&hide_border=false" height="220" width="500" alt="streak stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaspCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="220" width="500" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaspCode&show_icons=true&theme=radical&hide_border=true" height="220" width="500" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaspCode&theme=radical&hide_border=true" height="220" width="500" alt="streak stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaspCode&layout=compact&theme=radical&hide_border=true" height="220" width="500" alt="languages graph" />
 </div>
 
 ### ✍️ Random Dev Quote:
