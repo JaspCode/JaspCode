@@ -38,9 +38,9 @@ Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaspCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" width="400" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaspCode&theme=dark&hide_border=false" height="200" width="400" alt="streak stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaspCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" width="400" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaspCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" width="500" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaspCode&theme=dark&hide_border=false" height="200" width="500" alt="streak stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaspCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" width="500" alt="languages graph" />
 </div>
 
 ### ✍️ Random Dev Quote:
