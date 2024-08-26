@@ -1,5 +1,3 @@
-
-Dijiste:
 # 💫 About Me:
 Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
 
