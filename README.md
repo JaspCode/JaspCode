@@ -1,4 +1,4 @@
-<!-- Imagen de fondo -->
+<!-- Imagen de fondo (diseñada con texto o sin texto) -->
 ![Background Image](https://github.com/JaspCode/JaspCode/raw/main/images/fondo.gif)
 
 # 💫 About Me:
