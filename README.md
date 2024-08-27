@@ -9,16 +9,20 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
   <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Video GIF" width="800"/>
 </div>
 
-### 🎵 My Spotify & My Favorite Playlist:
-<a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" height="60" alt="spotify logo" />
-</a>
-<a href="https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" height="60" alt="spotify playlist logo" />
-</a>
+### 🎵 My Spotify Profile & Playlist
+
 <div align="center">
+  <!-- Spotify Profile -->
+  <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify%20Profile&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" alt="Spotify Profile" width="200" />
+  </a>
+
+  <!-- Spacer -->
+  <br /><br />
+
+  <!-- Favorite Playlist -->
   <a href="https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm" target="_blank">
-    <img src="https://spotify-widget-readme.vercel.app/api/playlist/3nJ1NmmYJFaY7UHXA4NwUm" alt="My Favorite Playlist" width="600" />
+    <img src="https://img.shields.io/static/v1?message=My%20Playlist&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" alt="My Favorite Playlist" width="200" />
   </a>
 </div>
 
