@@ -1,6 +1,10 @@
 # 👋 Hola! Soy Juan Saavedra
 🚀 Programador apasionado de Perú con una misión: convertir ideas en realidades digitales. Con un enfoque en la eficiencia y la creatividad, estoy aquí para innovar y resolver problemas con código. Desde la web hasta el back-end, mi objetivo es construir soluciones que marquen la diferencia. ¡Hablemos de tecnología y hagamos algo increíble juntos!
 
+<div align="center">
+  <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Video GIF" width="500"/>
+</div>
+
 ### 🎵 My Spotify & My Favorite Playlist:
 
 [![Spotify](https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge)](https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb) [![Spotify Playlist](https://img.shields.io/badge/Spotify-Playlist-%231ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm)
