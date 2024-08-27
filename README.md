@@ -6,32 +6,38 @@
 Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sistemas**.
 
 <div align="center">
-  <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Development Image" width="800"/>
+  <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Video GIF" width="800"/>
 </div>
 
 ### 🎵 My Spotify & My Favorite Playlist:
 [![Spotify](https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge)](https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb) 
 [![Spotify Playlist](https://img.shields.io/badge/Spotify-Playlist-%231ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm)
 
+<div align="center">
+  <a href="https://open.spotify.com/user/JASP">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=JASP&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ### 🌐 Socials:
 <div align="left">
-  <a href="https://www.youtube.com/@juansp625" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://instagram.com/im_jasp" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://www.twitch.tv/mc_jasp" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
+  <a href="https://www.linkedin.com/in/juan-anthony-saavedra-pomajulca-0b197928a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/jasp7904" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@juansp625" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="mailto:juan.saavedra@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/juan-anthony-saavedra-pomajulca-0b197928a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://instagram.com/im_jasp" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/mc_jasp" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
 </div>
 
@@ -84,6 +90,8 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Platane's activity graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
