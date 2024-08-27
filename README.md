@@ -2,7 +2,7 @@
 🚀 Programador apasionado de Perú con una misión: convertir ideas en realidades digitales. Con un enfoque en la eficiencia y la creatividad, estoy aquí para innovar y resolver problemas con código. Desde la web hasta el back-end, mi objetivo es construir soluciones que marquen la diferencia. ¡Hablemos de tecnología y hagamos algo increíble juntos!
 
 ### 🎧 My Favorite Playlist:
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6QRvr565e9NTH85Hax8xZS" width="100%" height="152" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[![My Favorite Playlist](https://img.shields.io/badge/Spotify-Playlist-%231ED760?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/playlist/6QRvr565e9NTH85Hax8xZS)
 
 ### 🌐 Socials:
 <div align="left">
