@@ -15,8 +15,7 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 [![Spotify Playlist](https://img.shields.io/badge/Spotify-Playlist-%231ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm)
 
 ### 🎵 My Favorite Song
-
-<<p align="center">
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile Widget" width="200" />
   </a>
