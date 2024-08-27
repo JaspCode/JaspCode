@@ -2,7 +2,17 @@
 Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/-%20-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_jasp) [![LinkedIn](https://img.shields.io/badge/-%20-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-anthony-saavedra-pomajulca-0b197928a/) [![Pinterest](https://img.shields.io/badge/-%20-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/JaspCode)
+<div align="left">
+  <a href="https://instagram.com/im_jasp" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://linkedin.com/in/juan-anthony-saavedra-pomajulca-0b197928a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://pinterest.com/JaspCode" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinterest/pinterest-original.svg" height="40" alt="pinterest logo" />
+  </a>
+</div>
 
 ### 💻 Tech Stack:
 <img align="right" height="180" src="https://github.com/JaspCode/JaspCode/blob/main/images/dev.webp"  />
@@ -51,4 +61,3 @@ Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
 [![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
