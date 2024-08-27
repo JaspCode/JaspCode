@@ -5,7 +5,7 @@ Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_jasp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-anthony-saavedra-pomajulca-0b197928a/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/JaspCode)
 
 ### 💻 Tech Stack:
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="180" src="https://github.com/JaspCode/JaspCode/blob/main/images/dev.webp"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -51,3 +51,4 @@ Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
 [![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
