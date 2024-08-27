@@ -13,7 +13,7 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile Widget" width="350" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile Widget" width="400" />
   </a>
 </div>
 
