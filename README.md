@@ -6,7 +6,7 @@
 Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sistemas**.
 
 <div align="center">
-  <img src="https://github.com/JaspCode/JaspCode/blob/main/images/dev.webp" alt="Development Image" width="800"/>
+  <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Development Image" width="800"/>
 </div>
 
 ### 🎵 My Spotify & My Favorite Playlist:
