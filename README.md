@@ -16,25 +16,13 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 <a href="https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" height="60" alt="spotify playlist logo" />
 </a>
-<a href="https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/playlist-add.svg" height="60" alt="playlist logo" />
-</a>
-### 🎵 My Favorite Playlist
-
-<div align="center">
-  <a href="https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm" target="_blank">
-    <img src="https://spotify-widget-readme.vercel.app/api/playlist/3nJ1NmmYJFaY7UHXA4NwUm" alt="My Favorite Playlist" width="500" />
-  </a>
-</div>
 ### 🎵 My Spotify Profile
 
 <div align="center">
   <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
-    <img src="https://spotify-profile-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb" alt="My Spotify Profile" width="500" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb&width=600" alt="My Spotify Profile" width="600" />
   </a>
 </div>
-
-
 
 
 ### 🎵 My Spotify Activity
@@ -44,8 +32,6 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb" alt="Spotify recently played" width="500" />
   </a>
 </div>
-
-
 
 ### 🌐 Socials:
 <div align="left">
