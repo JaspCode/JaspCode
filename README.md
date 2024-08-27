@@ -27,6 +27,22 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
   </a>
 </div>
 
+### 🎵 My Spotify & My Favorite Playlist
+
+<div style="text-align: center; margin-top: 20px;">
+  <!-- Icono de Spotify -->
+  <div style="margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spotify/spotify-original.svg" height="40" alt="Spotify logo" />
+    <p>My Spotify</p>
+  </div>
+
+  <!-- Icono de Audífonos -->
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/headphones/headphones-original.svg" height="40" alt="Headphones logo" />
+    <p>My Favorite Playlist</p>
+  </div>
+</div>
+
 ### 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/juan-anthony-saavedra-pomajulca-0b197928a/" target="_blank" rel="noopener noreferrer">
