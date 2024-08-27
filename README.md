@@ -31,6 +31,10 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb&count=5&width=600" alt="Recently Played">
 </div>
+### 🎵 Currently Playing
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=39cbwj81f7an7uzpem0e544tb&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh?si=7793fbe795c9461f)
+
 
 ### 🌐 Socials:
 <div align="left">
