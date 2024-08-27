@@ -11,10 +11,10 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 
 ### 🎵 My Spotify Profile & Playlist
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; align-items: center;">
 
   <!-- Spotify Profile & Playlist Icons -->
-  <div>
+  <div style="flex: 1;">
     <!-- Spotify Profile Icon -->
     <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Spotify%20Profile&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=flat-square" alt="Spotify Profile" width="150" />
@@ -26,22 +26,16 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
     </a>
   </div>
 
+  <!-- Spacer -->
+  <div style="flex: 0.5;"></div>
+
   <!-- Spotify Profile Widget -->
-  <div>
+  <div style="flex: 2;">
     <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile Widget" width="300" />
     </a>
   </div>
 
-</div>
-
-
-### 🎵 My Spotify Activity
-
-<div align="center">
-  <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb&count=5&width=600" alt="Recently Played">
-  </a>
 </div>
 
 ### 🌐 Socials:
