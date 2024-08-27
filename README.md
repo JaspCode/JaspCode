@@ -13,8 +13,9 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 [![Spotify](https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge)](https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb) 
 [![Spotify Playlist](https://img.shields.io/badge/Spotify-Playlist-%231ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm)
 <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=black&style=for-the-badge" height="40" alt="spotify logo" />
+  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="spotify logo" />
 </a>
+
 
 ### 🎵 My Spotify Activity
 
