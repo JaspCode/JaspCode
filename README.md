@@ -14,7 +14,7 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 <div align="center">
   <!-- Spotify Profile -->
   <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify%20Profile&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" alt="Spotify Profile" width="200" />
+    <img src="https://img.shields.io/static/v1?message=Spotify%20Profile&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=flat-square" alt="Spotify Profile" width="250" />
   </a>
 
   <!-- Spacer -->
@@ -22,7 +22,7 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 
   <!-- Favorite Playlist -->
   <a href="https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20Playlist&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" alt="My Favorite Playlist" width="200" />
+    <img src="https://img.shields.io/static/v1?message=My%20Playlist&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=flat-square" alt="My Favorite Playlist" width="250" />
   </a>
 </div>
 
