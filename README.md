@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
+# 👋 Hola! Soy Juan Saavedra
+🚀 Programador apasionado de Perú con una misión: convertir ideas en realidades digitales. Con un enfoque en la eficiencia y la creatividad, estoy aquí para innovar y resolver problemas con código. Desde la web hasta el back-end, mi objetivo es construir soluciones que marquen la diferencia. ¡Hablemos de tecnología y hagamos algo increíble juntos!
 
 ### 🌐 Socials:
 <div align="left">
@@ -58,5 +58,3 @@ Hi 👋! My name is Juan Saavedra, and I'm a Programmer from Peru.
 [![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
