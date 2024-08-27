@@ -17,7 +17,7 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 ### 🎵 My Favorite Song
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile Widget" width="300" height="60" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile Widget" width="700" height="100" />
   </a>
 </p>
 
