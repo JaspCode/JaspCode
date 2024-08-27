@@ -9,30 +9,11 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
   <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Video GIF" width="800"/>
 </div>
 
-### 🎵 My Spotify Profile & Playlist
+### 🎵 My Spotify & My Favorite Playlist
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+[![Spotify](https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge)](https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb) 
+[![Spotify Playlist](https://img.shields.io/badge/Spotify-Playlist-%231ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm)
 
-  <!-- Spotify Profile & Playlist Icons -->
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <!-- Spotify Profile Icon -->
-    <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Spotify%20Profile&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=flat-square" alt="Spotify Profile" width="150" />
-    </a>
-    <!-- Favorite Playlist Icon -->
-    <a href="https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=My%20Playlist&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=flat-square" alt="My Favorite Playlist" width="150" />
-    </a>
-  </div>
-
-  <!-- Spotify Profile Widget -->
-  <div style="flex-shrink: 0; max-width: 300px;">
-    <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile Widget" width="100%" />
-    </a>
-  </div>
-
-</div>
 
 ### 🌐 Socials:
 <div align="left">
