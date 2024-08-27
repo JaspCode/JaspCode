@@ -28,12 +28,9 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 
 ### 🎵 My Spotify Activity
 
-<div align="center">
-  <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb" alt="Spotify recently played" width="500" />
-  </a>
-</div>
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb&count=5)
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb)
+
+
 
 
 ### 🌐 Socials:
