@@ -53,11 +53,12 @@
 </div>
 
 ### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div style="font-size: 2em; font-weight: bold; padding: 20px; border-radius: 10px; background: linear-gradient(90deg, #ff7e5f, #feb47b); color: white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=4)](https://visitcount.itsvg.in)
+### 📈 Visit Count:
+[![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=2)](https://visitcount.itsvg.in)
 
 </div>
 
