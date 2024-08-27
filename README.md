@@ -1,5 +1,5 @@
 # 👋 Hola! Soy Juan Saavedra
-🚀 **Programador apasionado de Perú con una misión:** convertir ideas en realidades digitales. Con un enfoque en la eficiencia y la creatividad, estoy aquí para innovar y resolver problemas con código. Desde la web hasta el back-end, mi objetivo es construir soluciones que marquen la diferencia. ¡Hablemos de tecnología y hagamos algo increíble juntos!
+🚀 <span style="font-family: 'Courier New', Courier, monospace; font-size: 18px;">**Programador apasionado de Perú con una misión:** convertir ideas en realidades digitales. Con un enfoque en la eficiencia y la creatividad, estoy aquí para innovar y resolver problemas con código. Desde la web hasta el back-end, mi objetivo es construir soluciones que marquen la diferencia. ¡Hablemos de tecnología y hagamos algo increíble juntos!</span>
 
 <div align="center">
   <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Video GIF" width="800"/>
@@ -73,7 +73,7 @@
 ### ✍️ Random Dev Quote:
 <div align="center">
   <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" target="_blank" rel="noopener noreferrer">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&font=Arial&fontSize=30" alt="Random Dev Quote" style="background: linear-gradient(135deg, #6B73FF 0%, #000DFF 100%); padding: 10px; border-radius: 5px;" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&font=Arial&fontSize=30" alt="Random Dev Quote" style="background: linear-gradient(135deg, #6B73FF 0%, #000DFF 100%); padding: 10px; border-radius: 5px;"/>
   </a>
 </div>
 
