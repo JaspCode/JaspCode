@@ -1,8 +1,10 @@
+<div style="text-align: center; font-family: 'Trebuchet MS', sans-serif;">
+
 # 👋 Hola! Soy Juan Saavedra
 🚀 Programador apasionado de Perú con una misión: convertir ideas en realidades digitales. Con un enfoque en la eficiencia y la creatividad, estoy aquí para innovar y resolver problemas con código. Desde la web hasta el back-end, mi objetivo es construir soluciones que marquen la diferencia. ¡Hablemos de tecnología y hagamos algo increíble juntos!
 
 ### 🌐 Socials:
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@juansp625" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href="https://instagram.com/im_jasp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="https://www.twitch.tv/mc_jasp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
@@ -56,5 +58,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=4)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
