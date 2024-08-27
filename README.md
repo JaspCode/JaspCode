@@ -53,8 +53,8 @@
 </div>
 
 ### ✍️ Random Dev Quote:
-<div align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 18px; max-width: 600px; margin: 0 auto;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote" style="width: 100%; height: auto;" />
+<div style="font-size: 1.5em; font-weight: bold; padding: 20px; background-color: #1E1E1E; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
 
 ---
