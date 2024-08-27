@@ -57,14 +57,11 @@
   </a>
 </div>
 
-### 🐍 Fun with Snakes:
-<div align="center">
-  <img src="https://www.svgrepo.com/show/198747/snake.svg" alt="snake" height="150" />
-</div>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Platane's activity graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
