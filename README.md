@@ -2,7 +2,7 @@
 🚀 Programador apasionado de Perú con una misión: convertir ideas en realidades digitales. Con un enfoque en la eficiencia y la creatividad, estoy aquí para innovar y resolver problemas con código. Desde la web hasta el back-end, mi objetivo es construir soluciones que marquen la diferencia. ¡Hablemos de tecnología y hagamos algo increíble juntos!
 
 <div align="center">
-  <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Video GIF" width="500"/>
+  <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Video GIF" width="800"/>
 </div>
 
 ### 🎵 My Spotify & My Favorite Playlist:
