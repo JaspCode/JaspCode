@@ -29,19 +29,17 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 
 ### 🎵 My Spotify & My Favorite Playlist
 
-<div style="text-align: center; margin-top: 20px;">
-  <!-- Icono de Spotify -->
-  <div style="margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spotify/spotify-original.svg" height="40" alt="Spotify logo" />
-    <p>My Spotify</p>
-  </div>
+### 🎵 My Spotify
 
-  <!-- Icono de Audífonos -->
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/headphones/headphones-original.svg" height="40" alt="Headphones logo" />
-    <p>My Favorite Playlist</p>
-  </div>
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank" style="text-decoration: none; color: inherit;">
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spotify/spotify-original.svg" height="40" alt="spotify logo" />
+      <div style="margin-top: 5px; font-size: 16px; font-weight: bold;">My Spotify</div>
+    </div>
+  </a>
 </div>
+
 
 ### 🌐 Socials:
 <div align="left">
