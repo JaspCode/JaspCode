@@ -88,10 +88,16 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Platane's activity graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+                                                                  
+                                                                        ___        __        ________     _______   
+                                                                       |"  |      /""\      /"       )   |   __ "\  
+                                                                       ||  |     /    \    (:   \___/    (. |__) :) 
+                                                                       |:  |    /' /\  \    \___  \      |:  ____/  
+                                                                    ___|  /    //  __'  \    __/  \\     (|  /      
+                                                                   /  :|_/ )  /   /  \\  \  /" \   :)   /|__/ \     
+                                                                  (_______/  (___/    \___)(_______/   (_______)    
+                                                  
 
-  _           _                ____   ____   ____   ____   ____   ____  
- | |         | |              / __ \ / __ \ / __ \ / __ \ / __ \ / __ \ 
- | | ___  ___| | ___   ___   | |  | | |  | | |  | | |  | | |  | | |  | |
 
 
 
