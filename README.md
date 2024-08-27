@@ -1,6 +1,9 @@
 # 👋 Hola! Soy Juan Saavedra
 🚀 Programador apasionado de Perú con una misión: convertir ideas en realidades digitales. Con un enfoque en la eficiencia y la creatividad, estoy aquí para innovar y resolver problemas con código. Desde la web hasta el back-end, mi objetivo es construir soluciones que marquen la diferencia. ¡Hablemos de tecnología y hagamos algo increíble juntos!
 
+### 🎧 My Favorite Playlist:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6QRvr565e9NTH85Hax8xZS" width="100%" height="152" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### 🌐 Socials:
 <div align="left">
   <a href="https://www.youtube.com/@juansp625" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
