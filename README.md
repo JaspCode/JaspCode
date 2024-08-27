@@ -2,6 +2,9 @@
 
 🚀 <span style="font-family: 'Courier New', Courier, monospace; font-size: 22px; font-weight: bold; color: #333;">Programador apasionado de Perú con una misión: convertir ideas en realidades digitales. Con un enfoque en la eficiencia y la creatividad, estoy aquí para innovar y resolver problemas con código. Desde la web hasta el back-end, mi objetivo es construir soluciones que marquen la diferencia. ¡Hablemos de tecnología y hagamos algo increíble juntos!</span>
 
+### 🎓 Educación
+Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sistemas**.
+
 <div align="center">
   <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Video GIF" width="800"/>
 </div>
