@@ -11,30 +11,38 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 
 ### 🎵 My Spotify Profile & Playlist
 
-<div align="center">
-  <!-- Spotify Profile -->
-  <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify%20Profile&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=flat-square" alt="Spotify Profile" width="250" />
-  </a>
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-  <!-- Spacer -->
-  <br /><br />
+  <!-- Spotify Profile & Playlist Icons -->
+  <div>
+    <!-- Spotify Profile Icon -->
+    <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Spotify%20Profile&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=flat-square" alt="Spotify Profile" width="150" />
+    </a>
+    <br /><br />
+    <!-- Favorite Playlist Icon -->
+    <a href="https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=My%20Playlist&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=flat-square" alt="My Favorite Playlist" width="150" />
+    </a>
+  </div>
 
-  <!-- Favorite Playlist -->
-  <a href="https://open.spotify.com/playlist/3nJ1NmmYJFaY7UHXA4NwUm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20Playlist&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=flat-square" alt="My Favorite Playlist" width="250" />
-  </a>
+  <!-- Spotify Profile Widget -->
+  <div>
+    <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile Widget" width="300" />
+    </a>
+  </div>
+
 </div>
+
 
 ### 🎵 My Spotify Activity
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb&count=5&width=600" alt="Recently Played">
+  <a href="https://open.spotify.com/user/39cbwj81f7an7uzpem0e544tb" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb&count=5&width=600" alt="Recently Played">
+  </a>
 </div>
-
-Dijiste:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=39cbwj81f7an7uzpem0e544tb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 ### 🌐 Socials:
 <div align="left">
