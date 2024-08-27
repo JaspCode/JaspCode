@@ -33,6 +33,13 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb&width=600)
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb&unique=true)
 
+<div align="center" style="background-color:#1f1f1f; padding:10px; border-radius:10px; width: 300px;">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738b3812b5b4a9db0b1dedd81a" alt="Album cover" style="border-radius:50%; width:50px; height:50px;" />
+  <div style="display:inline-block; vertical-align:middle; padding-left:10px;">
+    <span style="font-weight:bold; color:#1DB954; font-size:14px;">80 Proof</span><br/>
+    <span style="color:#cccccc; font-size:12px;">Eric Reprid</span>
+  </div>
+</div>
 
 
 
