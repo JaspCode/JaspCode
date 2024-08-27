@@ -30,6 +30,11 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb&count=5&width=600)
 
+### 🎵 Recently Played
+
+<div align="center">
+  ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=39cbwj81f7an7uzpem0e544tb&count=5&width=600)
+</div>
 
 ### 🌐 Socials:
 <div align="left">
