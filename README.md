@@ -51,12 +51,14 @@
 </div>
 
 ### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" target="_blank" rel="noopener noreferrer">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&font=Arial&fontSize=30" alt="Random Dev Quote" style="background: linear-gradient(135deg, #6B73FF 0%, #000DFF 100%); padding: 10px; border-radius: 5px;"/>
+  </a>
+</div>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
