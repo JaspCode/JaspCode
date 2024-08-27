@@ -6,7 +6,7 @@
 Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sistemas**.
 
 <div align="center">
-  <img src="https://github.com/JaspCode/JaspCode/blob/main/images/video.gif" alt="Video GIF" width="800"/>
+  <img src="https://github.com/JaspCode/JaspCode/blob/main/images/dev.webp" alt="Development Image" width="800"/>
 </div>
 
 ### 🎵 My Spotify & My Favorite Playlist:
@@ -84,8 +84,6 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JaspCode&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Platane's activity graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
