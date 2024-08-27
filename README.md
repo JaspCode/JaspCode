@@ -53,7 +53,9 @@
 </div>
 
 ### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 18px; max-width: 600px; margin: 0 auto;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random dev quote" style="width: 100%; height: auto;" />
+</div>
 
 ---
 
@@ -62,3 +64,4 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
