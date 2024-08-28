@@ -29,9 +29,11 @@ Estudié en **Tecsup** la carrera de **Diseño de Software e Integración de Sis
 
 ### 🌐 Socials:
 <div align="left">
-  <a href="https://www.linkedin.com/in/juan-anthony-saavedra-pomajulca-0b197928a/" target="_blank" rel="noopener noreferrer">
+  <!--
+<a href="https://www.linkedin.com/in/juan-anthony-saavedra-pomajulca-0b197928a/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+</a>
+-->
   <a href="https://discord.com/users/jasp7904" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
